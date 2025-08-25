@@ -2,7 +2,7 @@
 🎮 Empecé estudiando Traducción e Interpretación y, al centrarme en la localización de videojuegos y páginas web, descubrí el mundo de la programación. <br>💻 Cursé el Grado Superior de Desarrollo de Aplicaciones Web centrándome tanto en backend (Java, SpringBoot, C#, MySQL) como en frontend (Angular, JS, HTML, CSS).<br>⚡ Una vez cuentas con las bases, eres capaz de hacer toda web que te propongas, por compleja que parezca en un inicio. Eso es lo que más disfruto, plantearme nuevos retos y poder disponer de infinidad de recursos que te permiten, junto con tus conocimientos previos, lograr aquello que en un primer momento parecía complejo o incluso imposible. <br>
 
 
-## 🌐 Mis redes sociales:
+## 🌐 Me puedes encontrar en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paula-andrea-fern%C3%A1ndez-l%C3%B3pez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pafernandez10@gmail.com) 
 
 # 💻 Skills:
